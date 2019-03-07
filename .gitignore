@@ -1,0 +1,12 @@
+# node.js
+node_modules/
+
+# Emacs
+*~
+*#
+
+# Yarn
+yarn-error.log
+
+# Eleventy
+_site/
